@@ -1,10 +1,11 @@
 # qmpoc
 
-Install dotnet core
+Install [dotnet core](https://dotnet.microsoft.com/download)
 
-Clone the project
+Clone this project
 
 From command line run 
+dotnet restore
 dotnet run 
 
 to run the project
